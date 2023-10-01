@@ -15,7 +15,7 @@ By contibuting to various projects the club is working on.
 | ------  | ------------------- | -----------    |
 | 00      | Installing Linux    | Completed      |
 | 01      | Terminal Wizard     | Completed      |
-| 02      | Lessgo Hugo         | COmpleted      |
+| 02      | Lessgo Hugo         | Completed Partially|
 | 03      | Hello World         | Completed      |
 | 04      | CP                  | Pertially done |
 | 05      | HTML                | Completed      |
