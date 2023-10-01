@@ -10,3 +10,16 @@ I've been wanting to learn Object Oriented Programming and it's applications, an
 
 # How I'll contribute back to the club
 By contibuting to various projects the club is working on.
+
+| Tasks   |     Description     |   Statues      |
+| ------  | ------------------- | -----------    |
+| 00      | Installing Linux    | Completed      |
+| 01      | Terminal Wizard     | Completed      |
+| 02      | Lessgo Hugo         | COmpleted      |
+| 03      | Hello World         | Completed      |
+| 04      | CP                  | Pertially done |
+| 05      | HTML                | Completed      |
+| 06      | Crickey             | Completed      |
+| 07      | AK 47               | Completed      |
+| 10      | Rusk OS             | Completed      |
+
