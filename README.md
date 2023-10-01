@@ -22,4 +22,5 @@ By contibuting to various projects the club is working on.
 | 06      | Crickey             | Completed      |
 | 07      | AK 47               | Completed      |
 | 10      | Rusk OS             | Completed      |
+| 13      | Vim                 | Completed      |
 
