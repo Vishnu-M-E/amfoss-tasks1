@@ -1,0 +1,7 @@
+cargo:rerun-if-changed=/home/vishnu/amfoss-tasks/task-10/Cargo.toml
+cargo:rustc-link-search=native=/home/vishnu/amfoss-tasks/task-10/target/bootimage/bootloader/x86_64-bootloader/release/build/bootloader-f0dc82ea23b8f194/out
+cargo:rustc-link-lib=static=kernel_bin-rusk_os
+cargo:rerun-if-env-changed=KERNEL
+cargo:rerun-if-env-changed=KERNEL_MANIFEST
+cargo:rerun-if-changed=/home/vishnu/amfoss-tasks/task-10/target/x86_64-rusk/debug/rusk_os
+cargo:rerun-if-changed=build.rs
