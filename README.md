@@ -17,7 +17,7 @@ By contibuting to various projects the club is working on.
 | 01      | Terminal Wizard     | Completed      |
 | 02      | Lessgo Hugo         | Completed Partially|
 | 03      | Hello World         | Completed      |
-| 04      | CP                  | Pertially done |
+| 04      | CP                  | Partially done |
 | 05      | HTML                | Completed      |
 | 06      | Crickey             | Completed      |
 | 07      | AK 47               | Completed      |
