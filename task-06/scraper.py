@@ -24,17 +24,7 @@ def scrape_data():
         over2='-'
 
     result=soup.find("p",class_="class=ds-text-tight-s ds-font-regular ds-truncate ds-text-typo")
-    
-
-
-    
-#    if team1_elem and score1_elem and team2_elem and score2_elem and summary_elem:
-#        team1 = team1_elem.text.strip()
-#        score1 = score1_elem.text.strip()
-#        team2 = team2_elem[1].text.strip()
-#        score2 = score2_elem[1].text.strip()
-#        summary = summary_elem.text.strip()
-        
+   
     # Get the current timestamp
     timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
         
