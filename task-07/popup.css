@@ -35,9 +35,6 @@ body {
     margin-top: 0px;
   }
   
-  #searchButton:hover {
-    background-color: #e64545;
-  }
   
   #weatherInfo {
     font-size: 24px;
