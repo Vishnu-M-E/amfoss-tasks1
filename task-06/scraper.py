@@ -10,11 +10,11 @@ def scrape_data():
 
     all=soup.find("div",class_="ds-text-compact-xxs").text
     team1 = soup.find("p",class_="ds-text-tight-m ds-font-bold ds-capitalize ds-truncate").text    
-    team2 = soup.find_all("p",class_="ds-text-tight-m ds-font-bold ds-capitalize ds-truncate")[1].text
+    team2 = soup.find("p",class_="ds-text-tight-m ds-font-bold ds-capitalize ds-truncate").text
     score1 = soup.find('strong').text
-    score2 = soup.find_all('strong')[1].text
+    score2 = soup.find('strong').text
     over1=soup.find('span',class_="ds-text-compact-xs ds-mr-0.5").text
-    over2=soup.find_all('span',class_="ds-text-compact-xs ds-mr-0.5")[1].text
+    over2=soup.find('span',class_="ds-text-compact-xs ds-mr-0.5").text
     if over1 not in all or over2 not in all:
         over1='-'
         over2='-'
