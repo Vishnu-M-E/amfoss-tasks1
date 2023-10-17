@@ -1,10 +1,8 @@
 import requests
-import os
 from bs4 import BeautifulSoup
 from datetime import datetime
 
 def scrape_data():
-    # Send an HTTP request to the ESPN website
     url = 'https://www.espncricinfo.com/live-cricket-score'
     response = requests.get(url)
     
